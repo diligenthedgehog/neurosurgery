@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/20230903_scene_mainmenu_v1_efsa.unity
+- path: Assets/Scenes/20231203_scene_profile_v1_efsa.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
